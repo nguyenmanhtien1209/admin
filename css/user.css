@@ -1,0 +1,51 @@
+#content {
+  width: 100%;
+  text-align: center;
+}
+#title {
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+#table {
+  width: 100%;
+  padding: 0 2rem;
+}
+table{
+    width: 100%;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th,td{
+    padding: 5px 0;
+}
+th{
+    background-color: #7d7a7a;
+}
+
+.tab{
+    margin-bottom: 20px;
+}
+.tablinks{
+    border: 1px solid #000;
+    padding: 10px 20px;
+}
+.tablinks:last-child{
+    padding-bottom: 8px;
+}
+.tab .tablinks.active{
+    color: red;
+}
+
+#themtaixe input{
+    display: block;
+    width: 600px;
+    padding: 10px 5px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    
+}
+
